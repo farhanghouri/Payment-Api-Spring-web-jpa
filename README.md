@@ -22,7 +22,7 @@
 # Put Request
 
 {
-        "name": "debit",
+        "name": "credit",
         "displayName": "Alfa Lebanon",
         "paymentType": "MOBILE_CARRIER",
         "paymentPlans": [
