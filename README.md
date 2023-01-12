@@ -1,7 +1,7 @@
 # Payment-Api-Spring-web-jpa
 
 # Post Request
-
+http://localhost:8080/api/v1.0/configuration/payment-methods
 [
     {
         "name": "debit",
@@ -20,6 +20,7 @@
 ]
 
 # Put Request
+http://localhost:8080/api/v1.0/configuration/payment-methods?payment-methods=17
 
 {
         "name": "credit",
